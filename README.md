@@ -3,6 +3,8 @@
 A working Flatpak manifest for [Feishin](https://github.com/jeffvli/feishin), a modern self-hosted music player. 
 This manifest repacks the official pre-compiled release for easy installation and sandboxing.
 
+*This is a community-maintained repackaging of Feishin using Flatpak. It is not an official build from the Feishin project. Feishin itself is licensed under the GPL-3.0 License.*
+
 ## How to install
 
 Make sure you have `flatpak-builder` installed, then run:
