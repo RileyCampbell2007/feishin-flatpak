@@ -10,6 +10,7 @@ This manifest repacks the official pre-compiled release for easy installation an
 Make sure you have `flatpak-builder` installed, then run:
 
 ```bash
+flatpak install org.freedesktop.Platform//25.08 org.freedesktop.Sdk//25.08 org.electronjs.Electron2.BaseApp//25.08
 git clone https://github.com/RileyCampbell2007/feishin-flatpak.git
 cd feishin-flatpak
 flatpak-builder --user --install build-dir io.github.jeffvli.feishin.yml --force-clean
