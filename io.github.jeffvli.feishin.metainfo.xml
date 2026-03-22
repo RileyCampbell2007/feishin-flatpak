@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.jeffvli.feishin</id>
+  
+  <icon type="cached" width="512" height="512">io.github.jeffvli.feishin.png</icon>
+
+  <name>Feishin</name>
+  <summary>A modern self-hosted music player.</summary>
+  
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0</project_license>
+
+  <description>
+    <p>
+      A modern self-hosted music player.
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.jeffvli.feishin.desktop</launchable>
+  
+  <developer_name>Jeffvli</developer_name>
+  
+  <url type="homepage">https://github.com/jeffvli/feishin</url>
+  <url type="bugtracker">https://github.com/jeffvli/feishin/issues</url>
+  
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/jeffvli/feishin/refs/heads/development/media/preview_home.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/jeffvli/feishin/refs/heads/development/media/preview_album_artist_detail.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/jeffvli/feishin/refs/heads/development/media/preview_album_detail.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/jeffvli/feishin/refs/heads/development/media/preview_full_screen_player.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/jeffvli/feishin/refs/heads/development/media/preview_smart_playlist.png</image>
+    </screenshot>
+  </screenshots>
+</component>
