@@ -7,6 +7,10 @@ This manifest repacks the official pre-compiled release for easy installation an
 
 ## How to install
 
+### Downloading
+The main way to install this flatpak is by downloading the flatpak bundle in the latest release
+
+### Building
 Make sure you have `flatpak-builder` installed, then run:
 
 ```bash
